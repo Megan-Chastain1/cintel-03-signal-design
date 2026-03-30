@@ -29,7 +29,7 @@ to get these projects running on your machine.
 I added imaginary data points to the existing data set.
 
 ### Signals
-(Describe the signals used and/or created)
+The signals used/created were for latency, error rate, and throughput. They tell how well a system is working.
 
 ### Experiments
 I just created a more robust data set.
